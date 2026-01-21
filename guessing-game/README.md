@@ -28,5 +28,7 @@ guess.php?guess=25
 - PHP
 - HTTP GET
 
-## Contexte
-Exercice réalisé dans le cadre de l’apprentissage des bases du développement web en PHP, avec validation automatique via un auto-grader.
+## Tests
+Le script a été testé via un auto-grader nécessitant un accès public au serveur PHP.
+
+
